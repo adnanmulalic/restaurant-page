@@ -11,4 +11,4 @@
   
   document.body.appendChild(component()); */
 
-alert("this works and changes main.js");
+//alert("this works and changes main.js");
