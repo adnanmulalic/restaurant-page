@@ -1,3 +1,5 @@
+import {createPage} from "./firstpage.js";
+createPage();
 //import _ from 'lodash';
 
 /* function component() {
