@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(236, 189, 101);
+}
+header {
+    display: flex;
+    justify-content: space-evenly;
+}
+.center {
+    text-align: center;
+}
